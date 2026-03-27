@@ -11,7 +11,7 @@
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
         
 * <b>Flink</b>
-  * [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)][FLINK-38901](https://github.com/apache/flink/pull/27826)
+  * [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)] [FLINK-38901](https://github.com/apache/flink/pull/27826)
 
 * <b>Flink Connector</b>
   * JDBC
