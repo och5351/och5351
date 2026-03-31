@@ -11,13 +11,14 @@
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
         
 * <b>Flink</b>
-  * [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)] [FLINK-38901](https://github.com/apache/flink/pull/27826)
+  * [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)] [[FLINK-38901](https://github.com/apache/flink/pull/27826)] Introduce the Rescales/Configuration sub-page for streaming jobs with the adaptive scheduler enabled
+  * 🏃🏻 [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)] [[FLINK-38901]()] Introduce the Rescales/History sub-page for streaming jobs with the adaptive scheduler enabled
 
 * <b>Flink Connector</b>
   * JDBC
-    * [FLINK-39224](https://github.com/apache/flink-connector-jdbc/pull/189) 🏃🏻
-    * [FLINK-38851](https://github.com/apache/flink-connector-jdbc/pull/183)
-    * [FLINK-38850](https://github.com/apache/flink-connector-jdbc/pull/182)
+    * 🏃🏻 [[FLINK-39224](https://github.com/apache/flink-connector-jdbc/pull/189)] Support PostgreSQL JSON, JSONB type
+    * [[FLINK-38851](https://github.com/apache/flink-connector-jdbc/pull/183)] Support passing arbitrary database options to JDBC Catalog
+    * [[FLINK-38850](https://github.com/apache/flink-connector-jdbc/pull/182)] Support PostgreSQL uuid type
       
     </div>
 </div>
