@@ -12,7 +12,7 @@
         
 * <b>Flink</b>
   * [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)] [[FLINK-38901](https://github.com/apache/flink/pull/27826)] Introduce the Rescales/Configuration sub-page for streaming jobs with the adaptive scheduler enabled
-  * 🏃🏻 [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)] [[FLINK-38899]()] Introduce the Rescales/History sub-page for streaming jobs with the adaptive scheduler enabled
+  * 🏃🏻 [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)] [[FLINK-38899](https://github.com/apache/flink/pull/27874)] Introduce the Rescales/History sub-page for streaming jobs with the adaptive scheduler enabled
 
 * <b>Flink Connector</b>
   * JDBC
