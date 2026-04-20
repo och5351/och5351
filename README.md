@@ -16,7 +16,7 @@
       * [[FLINK-38901](https://github.com/apache/flink/pull/27826)] Introduce the Rescales/Configuration sub-page for streaming jobs with the adaptive scheduler enabled
       * [[FLINK-38899](https://github.com/apache/flink/pull/27874)] Introduce the Rescales/History sub-page for streaming jobs with the adaptive scheduler enabled
       * [[FLINK-38898](https://github.com/apache/flink/pull/27926)] Introduce the Rescales/Overview sub-page for streaming jobs with the adaptive scheduler enabled
-      * 🏃🏻 [[FLINK-38800](https://issues.apache.org/jira/browse/FLINK-38900)] Introduce the Rescales/Summary sub-page for streaming jobs with the adaptive scheduler enabled
+      * 🏃🏻 [[FLINK-38800](https://github.com/apache/flink/pull/27974)] Introduce the Rescales/Summary sub-page for streaming jobs with the adaptive scheduler enabled
 * <b>Flink Connector</b>
   * JDBC
     * 🏃🏻 [[FLINK-39224](https://github.com/apache/flink-connector-jdbc/pull/189)] Support PostgreSQL JSON, JSONB type
