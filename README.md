@@ -12,7 +12,7 @@
         
 * <b>Flink</b>
 
-  * Co authored by [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)]
+  * Co authored [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)]
       * [[FLINK-38901](https://github.com/apache/flink/pull/27826)] Introduce the Rescales/Configuration sub-page for streaming jobs with the adaptive scheduler enabled
       * [[FLINK-38899](https://github.com/apache/flink/pull/27874)] Introduce the Rescales/History sub-page for streaming jobs with the adaptive scheduler enabled
       * [[FLINK-38898](https://github.com/apache/flink/pull/27926)] Introduce the Rescales/Overview sub-page for streaming jobs with the adaptive scheduler enabled
