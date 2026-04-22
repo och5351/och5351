@@ -5,7 +5,7 @@
 <div align= "left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Introduce </h2>
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
-        <p>A data engineer and someone who enjoys development</p>
+        <p>A data engineer and someone who enjoys development.</p>
     </div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contributions </h2>
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
@@ -16,7 +16,7 @@
       * [[FLINK-38901](https://github.com/apache/flink/pull/27826)] Introduce the Rescales/Configuration sub-page for streaming jobs with the adaptive scheduler enabled
       * [[FLINK-38899](https://github.com/apache/flink/pull/27874)] Introduce the Rescales/History sub-page for streaming jobs with the adaptive scheduler enabled
       * [[FLINK-38898](https://github.com/apache/flink/pull/27926)] Introduce the Rescales/Overview sub-page for streaming jobs with the adaptive scheduler enabled
-      * 🏃🏻 [[FLINK-38800](https://github.com/apache/flink/pull/27974)] Introduce the Rescales/Summary sub-page for streaming jobs with the adaptive scheduler enabled
+      * [[FLINK-38800](https://github.com/apache/flink/pull/27974)] Introduce the Rescales/Summary sub-page for streaming jobs with the adaptive scheduler enabled
   * 🏃🏻 [[FLINK-39486](https://github.com/apache/flink/pull/27978)] Change the size of the job-overview-list section based on screen size
 * <b>Flink Connector</b>
   * JDBC
