@@ -23,7 +23,8 @@
     * 🏃🏻 [[FLINK-39224](https://github.com/apache/flink-connector-jdbc/pull/189)] Support PostgreSQL JSON, JSONB type
     * [[FLINK-38851](https://github.com/apache/flink-connector-jdbc/pull/183)] Support passing arbitrary database options to JDBC Catalog
     * [[FLINK-38850](https://github.com/apache/flink-connector-jdbc/pull/182)] Support PostgreSQL uuid type
-      
+* <b>Openlineage</b>
+  * 🏃🏻 [[4494](https://github.com/OpenLineage/OpenLineage/pull/4495)] flink: add ClickHouse JDBC support
     </div>
 </div>
   
