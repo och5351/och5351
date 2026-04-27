@@ -17,7 +17,7 @@
       * [[FLINK-38899](https://github.com/apache/flink/pull/27874)] Introduce the Rescales/History sub-page for streaming jobs with the adaptive scheduler enabled
       * [[FLINK-38898](https://github.com/apache/flink/pull/27926)] Introduce the Rescales/Overview sub-page for streaming jobs with the adaptive scheduler enabled
       * [[FLINK-38800](https://github.com/apache/flink/pull/27974)] Introduce the Rescales/Summary sub-page for streaming jobs with the adaptive scheduler enabled
-      * 🏃🏻 [[FLINK-39551](https://github.com/apache/flink/pull/28038)] Fix the styling of the ignored badge in the rescale history subpage
+      * [[FLINK-39551](https://github.com/apache/flink/pull/28038)] Fix the styling of the ignored badge in the rescale history subpage
       * 🏃🏻 [[FLINK-39550](https://github.com/apache/flink/pull/28044)] Fix the Rescales tab order error on the job page
   * [[FLINK-39486](https://github.com/apache/flink/pull/27978)] Change the size of the job-overview-list section based on screen size
   
