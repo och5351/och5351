@@ -27,8 +27,8 @@
     * [[FLINK-38851](https://github.com/apache/flink-connector-jdbc/pull/183)] Support passing arbitrary database options to JDBC Catalog
     * [[FLINK-38850](https://github.com/apache/flink-connector-jdbc/pull/182)] Support PostgreSQL uuid type
 * <b>Openlineage</b>
-  * 🏃🏻 [[4494](https://github.com/OpenLineage/OpenLineage/pull/4495)] flink: add ClickHouse JDBC support
-  * 🏃🏻 [[4496](https://github.com/OpenLineage/OpenLineage/pull/4497)] fix(client/java): MySqlJdbcExtractor incorrectly includes URL database in qualified table names
+  * [[4494](https://github.com/OpenLineage/OpenLineage/pull/4495)] flink: add ClickHouse JDBC support
+  * [[4496](https://github.com/OpenLineage/OpenLineage/pull/4497)] fix(client/java): MySqlJdbcExtractor incorrectly includes URL database in qualified table names
     </div>
 </div>
   
