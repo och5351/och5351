@@ -10,7 +10,7 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contributions </h2>
     <div style="margin: 0 auto; text-align: left;" align= "left"> 
         
-* <b>Flink</b>
+* 🏃🏻 <b>Flink</b> 
 
   * Co authored [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)]
       * [[FLINK-38901](https://github.com/apache/flink/pull/27826)] Introduce the Rescales/Configuration sub-page for streaming jobs with the adaptive scheduler enabled
@@ -23,7 +23,7 @@
   
 * <b>Flink Connector</b>
   * JDBC
-    * 🏃🏻 [[FLINK-39224](https://github.com/apache/flink-connector-jdbc/pull/189)] Support PostgreSQL JSON, JSONB type
+    * [[FLINK-39224](https://github.com/apache/flink-connector-jdbc/pull/189)] Support PostgreSQL JSON, JSONB type
     * [[FLINK-38851](https://github.com/apache/flink-connector-jdbc/pull/183)] Support passing arbitrary database options to JDBC Catalog
     * [[FLINK-38850](https://github.com/apache/flink-connector-jdbc/pull/182)] Support PostgreSQL uuid type
 * <b>Openlineage</b>
