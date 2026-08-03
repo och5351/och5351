@@ -12,8 +12,8 @@
 
 🏃🏻 <b>Flink</b>
     
-* [[FLIP-602](https://cwiki.apache.org/confluence/spaces/FLINK/pages/440304839/FLIP-602+Extended+JDBC+Scan+Partitioning+Options+for+Efficient+Data+Ingestion)]
-*  Co authored [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)]
+* [[FLIP-602](https://cwiki.apache.org/confluence/spaces/FLINK/pages/440304839/FLIP-602+Extended+JDBC+Scan+Partitioning+Options+for+Efficient+Data+Ingestion)]: Extended JDBC Scan Partitioning Options for Efficient Data Ingestion
+*  Co authored [[FLIP-487](https://cwiki.apache.org/confluence/display/FLINK/FLIP-487%3A+Show+history+of+rescales+in+Web+UI+for+AdaptiveScheduler)]: Show history of rescales in Web UI for AdaptiveScheduler
 
 <details>
     <summary> <b>Openlineage</b> </summary>
